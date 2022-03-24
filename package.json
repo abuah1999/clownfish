@@ -2,6 +2,7 @@
     "name": "clownfish",
     "displayName": "clownfish",
     "description": "an experimental vs code color theme",
+    "publisher": "abuah1999",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.65.0"
