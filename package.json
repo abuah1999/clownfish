@@ -6,6 +6,14 @@
     "engines": {
         "vscode": "^1.65.0"
     },
+    "author": {
+        "name" : "Amaechi Abuah",
+        "email": "abuah1999@gmail.com"
+    },
+    "repository": {
+        "url": "https://github.com/abuah1999/clownfish.git",
+        "type": "git"
+    },
     "categories": [
         "Themes"
     ],
