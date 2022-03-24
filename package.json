@@ -1,0 +1,21 @@
+{
+    "name": "clownfish",
+    "displayName": "clownfish",
+    "description": "an experimental vs code color theme",
+    "version": "0.0.1",
+    "engines": {
+        "vscode": "^1.65.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "clownfish",
+                "uiTheme": "hc-black",
+                "path": "./themes/clownfish-color-theme.json"
+            }
+        ]
+    }
+}
